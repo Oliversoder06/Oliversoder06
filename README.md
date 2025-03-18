@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Oliver! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oliver&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Oliversoder06&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me  
